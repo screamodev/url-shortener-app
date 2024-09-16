@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlChangerApi", "UrlChangerApi\UrlChangerApi.csproj", "{285AD9BD-86D4-4028-9799-BE748122D306}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlChangerApi.UnitTests", "UrlChangerApi.UnitTests\UrlChangerApi.UnitTests.csproj", "{8C18A26D-A8A6-4B83-8AB8-23A3B71962D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{285AD9BD-86D4-4028-9799-BE748122D306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{285AD9BD-86D4-4028-9799-BE748122D306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{285AD9BD-86D4-4028-9799-BE748122D306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{285AD9BD-86D4-4028-9799-BE748122D306}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C18A26D-A8A6-4B83-8AB8-23A3B71962D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C18A26D-A8A6-4B83-8AB8-23A3B71962D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C18A26D-A8A6-4B83-8AB8-23A3B71962D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C18A26D-A8A6-4B83-8AB8-23A3B71962D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
